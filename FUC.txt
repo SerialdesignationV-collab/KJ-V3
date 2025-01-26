@@ -785,7 +785,6 @@ boom1.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
         end
     end
 game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart").Anchored = false
-end)
 end
 end
 
